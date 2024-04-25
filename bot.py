@@ -3,37 +3,11 @@ import logging
 from logging.handlers import RotatingFileHandler
 from pyrogram import Client
 from pyrogram import idle
+from Uploader.config import Config
 
-# Define your bot token, API ID, API hash, session string, and download directory
-BOT_TOKEN = "your_bot_token"
-API_ID = your_api_id
-API_HASH = "your_api_hash"
-SESSION_STRING = "your_session_string"
-DOWN_DIR = "./DOWNLOADS"
 
-# Clear log file if exists
-if os.path.exists('log.txt'):
-    with open('log.txt', 'r+') as f:
-        f.truncate(0)
 
-# Configure logging
-logging.basicConfig(
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - %(message)s [%(filename)s:%(lineno)d]",
-    datefmt="%d-%b-%y %H:%M:%S",
-    handlers=[
-        RotatingFileHandler(
-            "log.txt", maxBytes=50000000, backupCount=10
-        ),
-        logging.StreamHandler(),
-    ],
-)
 
-logging.getLogger("pyrogram")
-logging.getLogger("pySmartDL")
-logging.getLogger("aria2p")
-# Logger for printing
-LOGGER = logging.getLogger(__name__)
 
 # Prepare bot client
 bot = Client(
