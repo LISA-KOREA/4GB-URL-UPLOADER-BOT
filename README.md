@@ -4,3 +4,9 @@
 
 
 
+# STARTING SOON 💯
+
+#### 1ST I WANT A PREMIUM. YOU WANT DONATE ME 
+
+# [@LISA_FAN_LK](https://t.me/LISA_FAN_LK)
+
