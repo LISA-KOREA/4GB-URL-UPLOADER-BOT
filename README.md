@@ -2,11 +2,4 @@
 ##### 4GB SUPPORT URL UPLOADER BOT
 
 
-
-
-# STARTING SOON 💯
-
-#### 1ST I WANT A PREMIUM. DONATE ME 
-
-# [@LISA_FAN_LK](https://t.me/LISA_FAN_LK)
-
+###### BOT LINK -> [UPLOADER_4GB_BOT](https://t.me/UPLOADER_4GB_BOT)
