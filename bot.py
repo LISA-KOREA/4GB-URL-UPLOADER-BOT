@@ -3,7 +3,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 from pyrogram import Client
 from pyrogram import idle
-from Uploader.config import Config
+from Uploader.config import *
 
 
 
