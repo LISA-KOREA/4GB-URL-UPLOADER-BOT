@@ -4,9 +4,11 @@
 
 ![logo](https://graph.org/file/6533521837d2309351f67.jpg)
 
+#### 4GB SUPPORT BOTS 👇🏻
 
 ###### BOT LINK -> [UPLOADER_4GB_BOT](https://t.me/UPLOADER_4GB_BOT)
 
+###### 2 BOT LINK -> [Torrent Uploader Bot](https://t.me/Torrent_Uploader_Bot)
 
 ### Bot Commands 
 ```
