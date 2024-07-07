@@ -6,9 +6,9 @@
 
 #### 4GB SUPPORT BOTS 👇🏻
 
-###### BOT LINK -> [UPLOADER_4GB_BOT](https://t.me/UPLOADER_4GB_BOT)
+###### BOT LINK -> [UPLOADER 4GB BOT](https://t.me/UPLOADER_4GB_BOT)
 
-###### 2 BOT LINK -> [Torrent Uploader Bot](https://t.me/Torrent_Uploader_Bot)
+###### 2 BOT LINK -> [TORRENT UPLOADER BOT](https://t.me/Torrent_Uploader_Bot)
 
 ### Bot Commands 
 ```
@@ -28,5 +28,5 @@ broadcast - Only Owner 🙂
 - YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
 - Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
 - Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader Bot 🚀](https://t.me/UploadLinkToFileBot)
+- URL Uploader Bot : [Uploader Bot 🚀](https://t.me/LinkToFileUploaderBot)
 - Me : [Lisa 👑](https://t.me/LISA_FAN_LK)
