@@ -6,7 +6,7 @@ class Translation(object):
 
 Contact me @LISA_FAN_LK
 """
-  HELP_TEXT = """ donete tg premium 
+  HELP_TEXT = """ donete tg premium 👌🏻
 
   """
   
