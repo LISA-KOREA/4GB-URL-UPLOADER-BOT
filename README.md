@@ -6,7 +6,7 @@
 
 #### 4GB SUPPORT BOTS 👇🏻
 
-###### BOT LINK -> [UPLOADER 4GB BOT](https://t.me/UPLOADER_4GB_BOT)
+###### BOT LINK -> [UPLOADER 4GB BOT](https://t.me/LinkToFileUploaderBot)
 
 ###### 2 BOT LINK -> [TORRENT UPLOADER BOT](https://t.me/Torrent_Uploader_Bot)
 
